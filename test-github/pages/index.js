@@ -115,7 +115,6 @@ export default function Home() {
               Instantly deploy My Data
               with&nbsp;Vercel.
             </p>
-            <p>Test P Tag</p>
           </a>
         </div>
       </main>
